@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Interface</string>
+    <string name="z2">Z2</string>
+    <string name="z1">Z1</string>
+    <string name="z3">Z3</string>
+    <string name="z4">Z4</string>
+    <string name="on_off">ON/OFF</string>
+    <string name="activer">ACTIVER</string>
+    <string name="desactiver">DESACTIVER</string>
+    <string name="rest">REST</string>
+</resources>
